@@ -1,24 +1,39 @@
-# 🎬 Movie Search App
+# 🎬 Movie Name App
 
-## 📌 Description
-A web application that allows users to search for movies by title and view movie details.
+A web application that allows users to search for movies by entering their title and view relevant movie information through a simple and interactive interface.
 
-## 🚀 Features
-- Search movies by name
-- Fetch and display movie details
-- Simple UI
+---
 
-## 🛠️ Tech Stack
-- HTML, CSS, JavaScript
-- Movie API (OMDb API or similar)
+## ✨ Features
 
-## ▶️ How to Run
-1. Clone the repository
-2. Open index.html in browser
+- 🔍 Search for movies by title
+- 🎬 Display movie information
+- ⚡ Dynamic search results
+- 🌐 API integration
+- 💻 Simple and user-friendly interface
+- 📱 Responsive design
 
-## 📸 Screenshot
-(Add screenshot here)
+---
 
-## 📈 Future Improvements
-- Add ratings and reviews
-- Improve UI design
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- REST API
+- Fetch API
+
+---
+
+## ⚙️ How It Works
+
+```text
+User enters a movie title
+          ↓
+Search request is sent
+          ↓
+Movie API processes the request
+          ↓
+Movie data is received
+          ↓
+Results are displayed to the user
